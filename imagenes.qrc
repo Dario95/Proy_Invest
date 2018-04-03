@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>diaplay.png</file>
+        <file>flecha_derecha</file>
+        <file>flecha_izquierda.png</file>
+        <file>imagenes/Escudo_de_la_Escuela_Politécnica_Nacional.png</file>
+        <file>imagenes/epn2.png</file>
+        <file>imagenes/salir.png</file>
+        <file>imagenes/jetsontk1.png</file>
+        <file>imagenes/zed.jpg</file>
+        <file>imagenes/conectar.png</file>
+        <file>imagenes/disconneected.png</file>
+        <file>imagenes/wifioff-iloveimg-resized.png</file>
+        <file>imagenes/wifion-iloveimg-resized.png</file>
+        <file>imagenes/impresora-3d.png</file>
+        <file>imagenes/rsz_setting.png</file>
+        <file>imagenes/rsz_repair.png</file>
+        <file>imagenes/equipo.png</file>
+        <file>imagenes/retroceso-rapido(1).png</file>
+        <file>imagenes/epn3.png</file>
+        <file>imagenes/wifioff.png</file>
+        <file>imagenes/wifion.png</file>
+        <file>imagenes/diego.jpg</file>
+        <file>imagenes/jona.jpg</file>
+    </qresource>
+</RCC>

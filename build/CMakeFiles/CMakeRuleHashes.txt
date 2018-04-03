@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+a3beb5b960f93c8851617fac05e6f8c8 darknet_wrapper/moc_box.cxx
+590c46e112d2e1b412ee707ea38b736a darknet_wrapper/moc_wrapper_cpp.cxx
+0faeba77f7d35da9bc5f2c0b1060e9ac moc_mainwindow.cxx
+7f4c971baf78b3f79a1a72678d529d68 moc_threadcliente.cxx
+c9ae25fa0e54a912fe4e923c54ca2511 moc_v_autores11.cxx
+cdf64b6e0f48dd01cea366b1df36339f moc_v_visualizador.cxx
+c50df7c89fc361fd15dc50aee2ea2fb1 qrc_imagenes.cxx
+2c64bd42b08e61109435316daf0e812e ui_mainwindow.h
+84ac0fd16aa8f73866779d74710fe9d5 ui_v_autores11.h
+f3c2886bd3e689a48d5c33b51d24821b ui_v_visualizador.h
